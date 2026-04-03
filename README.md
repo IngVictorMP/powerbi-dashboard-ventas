@@ -1,6 +1,6 @@
 # 📊 Dashboard de Ventas - Power BI
 
-Proyecto de Business Intelligence enfocado en el análisis de ventas, costos y rentabilidad.
+Proyecto de Business Intelligence enfocado en el análisis de ventas, costos y rentabilidad para una persona moral.
 
 ## 🎯 Objetivo
 Analizar el comportamiento de ventas y ganancias para apoyar la toma de decisiones mediante visualización de datos.
